@@ -35,9 +35,7 @@ Currently focused on **EchoCampus** and expanding my skills in mobile developmen
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshitsinghal11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harshitsinghal11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsinghal11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshitsinghal11&theme=whatsapp-dark2&hide_border=true&border_radius=18&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshitsinghal11&theme=dark&no-frame=false&no-bg=false&margin-w=4)
