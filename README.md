@@ -34,8 +34,22 @@ Currently focused on **EchoCampus** and expanding my skills in mobile developmen
 
 ---
 
-### 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshitsinghal11&theme=whatsapp-dark2&hide_border=true&border_radius=18&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiragSood1&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFD93D&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 GitHub Contribution Snake Game
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" width="100%"/>
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshitsinghal11&theme=dark&no-frame=false&no-bg=false&margin-w=4)
