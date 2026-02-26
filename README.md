@@ -36,7 +36,7 @@ Currently focused on **EchoCampus** and expanding my skills in mobile developmen
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiragSood1&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFD93D&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitsinghal11&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFD93D&area=true&hide_border=true" width="100%"/>
 
 </div>
 
