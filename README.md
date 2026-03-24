@@ -43,10 +43,6 @@ Currently focused on **EchoCampus** and expanding my skills in mobile developmen
 
 </div>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshitsinghal11&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 
 ### ✍️ Random Dev Quote
