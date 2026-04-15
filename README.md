@@ -8,7 +8,7 @@ Currently focused on **EchoCampus** and expanding my skills in mobile developmen
 
 ---
 
-## 🚀 Currently Working On: EchoCampus
+## 🚀 Currently Working On: EventSync
 
 > **EventSync** is a Full Stack Application to Keep Track of Every Ongoing college Event Without missing.
 
