@@ -10,11 +10,11 @@ Currently focused on **EchoCampus** and expanding my skills in mobile developmen
 
 ## 🚀 Currently Working On: EchoCampus
 
-> **EchoCampus** is a centralized, student-centric campus platform designed to streamline student life.
+> **EventSync** is a Full Stack Application to Keep Track of Every Ongoing college Event Without missing.
 
 | 🚧 Status | 📚 Learning | ⚙️ Tech |
 | :--- | :--- | :--- |
-| **Active Development** | Flutter & Mobile Dev | Supabase, React, JS |
+| **Active Development** | Full Stack Development | Supabase, React, JS |
 
 ---
 
