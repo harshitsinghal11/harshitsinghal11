@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=20C20E&width=435&lines=Hi+there!+I'm+Harshit+Singhal+%F0%9F%91%8B;Scaling+EchoCampus;Learning+New Technologies;Creative+Developer" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=20C20E&width=435&lines=Hi+there!+I'm+Harshit+Singhal+%F0%9F%91%8B;Scaling+EchoCampus;Learning+New+Technologies;Creative+Developer" alt="Typing SVG" />
 
 ### 🎓 Student at Manav Rachna University | 📍 Faridabad, India
 
