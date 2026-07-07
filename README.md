@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitsinghal11)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitsinghal11)
 [![Portfolio](https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=vercel&logoColor=white)](https://harshit-singhal.vercel.app)
-![](https://komarev.com/ghpvc/?username=harshitsinghal11)
 </div>
 
 ---
