@@ -73,22 +73,22 @@ A streamlined ordering system built for single-cafe operations. Real-time menu, 
 <tr>
 <td width="50%" valign="top">
 
-### 📅 EventSync
-Campus event management — create, discover, and register for college events in one place.
+### 💰 Finance Me
+Personal finance tracker for managing expenses, budgets, and spending insights in one clean dashboard.
 
-**Stack:** HTML · CSS · JavaScript · React
+**Stack:** _add stack_
 
-[![Repo](https://img.shields.io/badge/View_Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitsinghal11/EventSync)
+[![Repo](https://img.shields.io/badge/View_Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitsinghal11/finance-me)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔗 CampusSync
-A unified hub for campus resources, announcements, and student tools — built to reduce the noise.
+### 🧬 GitDNA
+Analyzes a repository's commit history to surface its underlying "DNA" — contribution patterns, code evolution, and project health.
 
-**Stack:** HTML · CSS · JavaScript
+**Stack:** _add stack_
 
-[![Repo](https://img.shields.io/badge/View_Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitsinghal11/CampusSync)
+[![Repo](https://img.shields.io/badge/View_Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitsinghal11/git-dna)
 
 </td>
 </tr>
